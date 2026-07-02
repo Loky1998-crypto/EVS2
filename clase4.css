@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="Caracteristicas4.css">
+    <title>Caracteristicas</title>
+</head>
+<body class="bg-light">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="clase4.html"><strong>Inicio</strong></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="Nosotros4.html"><strong>Nosotros</strong></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Caracteristicas4.html"><strong>Caracteristicas</strong></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Valores4.html"><strong>Valores</strong></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Reglas_del_aula4.html"><strong>Reglas</strong></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Contacto4.html"><strong>Contacto</strong></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+    <div class="container py-5">
+        <header>
+        <h1 class="imagen1">Caracteristica de la campaña</h1>
+    </header>
+    <main>
+        <section>
+          <img src="imagenes_index/ChatGPT Image 25 jun 2026, 04_04_13 p.m..png">
+        </section>
+    </main>
+    <footer>
+      <nav aria-label="Page navigation example">
+          <ul class="pagination justify-content-center">
+            <li class="page-item disabled">
+              <a class="page-link">Proximo</a>
+            </li>
+            <li class="page-item"><a class="page-link" href="clase4.html">1</a></li>
+            <li class="page-item"><a class="page-link" href="Nosotros4.html">2</a></li>
+            <li class="page-item"><a class="page-link" href="Caracteristicas4.html">3</a></li>
+            <li class="page-item"><a class="page-link" href="Valores4.html">4</a></li>
+            <li class="page-item"><a class="page-link" href="Reglas_del_aula4.html">5</a></li>
+            <li class="page-item"><a class="page-link" href="Contacto4.html">6</a></li>
+            <li class="page-item">
+              <a class="page-link" href="#">Siguiente</a>
+            </li>
+          </ul>
+        </nav>
+  </footer>
+    </div>
+   
+    
+</body>
+</html>

@@ -1,0 +1,11 @@
+.tablero1{
+    background-position: center;
+    background-color: rgb(231, 179, 116);
+    border-radius: 20px;
+    width: 600px;
+    height: 850px;
+}
+.regla1{
+    text-align: center;
+    color: black;
+}
